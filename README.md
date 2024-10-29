@@ -1,4 +1,50 @@
-# Getting Started with Create React App
+# Random Cocktail Generator
+
+Welcome to the Random Cocktail Generator project! This application allows users to fetch and display random cocktail recipes along with their ingredients and instructions. The project utilizes thecocktaildb.com API.
+
+## Features
+
+- Fetches random cocktail recipes
+- Displays cocktail name, ingredients, measurements, and preparation instructions
+- Interactive button and card with hover effects
+
+## Technologies Used
+
+- React
+- JavaScript
+- CSS (for styling)
+
+## Setup Instructions
+
+To set up and run this project locally, follow these steps:
+
+1. **Clone the Repository**  
+   Open your terminal and run the following command to clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/BrandonBell2025/cocktail_ideas.git
+   ```
+2. **Navigate to the Project Directory**  
+   Change to the project directory in the terminal
+   ```bash
+   cd cocktail_ideas
+   ```
+3. **Install Required Dependencies**  
+   Run the following code in terminal to install dependencies
+   ```bash
+   npm install
+   ```
+
+## Running the Application
+
+Once you have installed the dependencies, you can start the application by running:
+```bash
+npm start
+```
+
+This command will start the development server, and you can access the application in your web browser at http://localhost:3000.
+
+
+# React Documentation For Reference
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
